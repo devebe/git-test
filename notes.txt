@@ -1,0 +1,20 @@
+Commands for committing to github
+
+Connect to a specific repository:
+    git clone git@github.com:devebe/[REPOSITORY_NAME].git
+
+Push changes to repository
+    git push
+    git push origin main
+
+Adding changes to staging
+    git add [FILE_NAME]
+    git add .
+
+Adding changes to commit
+    git commit (will open VSCode for including message & other metadata)
+    git commit -m "Message describing changes in commit"
+
+Checking where changes reside
+    git status
+    git log
