@@ -2,6 +2,7 @@ Commands for committing to github
 
 Connect to a specific repository:
     git clone git@github.com:devebe/[REPOSITORY_NAME].git
+This is not necessary if you want to continue in the same repository
 
 Push changes to repository
     git push
